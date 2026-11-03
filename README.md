@@ -163,20 +163,6 @@ My work is centered on **secure, production-ready, intelligent systems**:
 - Secure-by-design development and data minimisation
 - Applied AI for agriculture, education, procurement and community services
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deo-Siatah&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deo-Siatah&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deo-Siatah&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
----
 
 ## Beyond Code
 
